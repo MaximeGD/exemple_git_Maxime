@@ -6,3 +6,5 @@ Ceci est un test 4
 Ceci est un cinquième message il n'existera d'abords que dans la branche feature/new text
 
 oyuoyuoyu
+
+Ceci est un sixième message dans le main
