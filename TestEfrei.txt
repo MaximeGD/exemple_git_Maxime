@@ -12,7 +12,7 @@ Ceci est un sixième message dans le main
 
 Sauvegarde pour cours:
 
-git status (reflexe principal en cas de pas radoute), git add <fichier> (git add .), 
+git status (reflexe principal en cas de doute), git add <fichier> (git add .), 
 git commit -m <message explicatif> (git commit --amend -m <message>)
 git push (-u <alias URL> <branche>)
 git log, git show
@@ -34,3 +34,6 @@ git clone <URL du dépôt> [nom du dossier où cloner]
 l'eau ce n'est pas bon nul pour le vie 
 manger fait grossir 
 joeur c'est ennuyant
+L'eau c'est bon pour la sante wow c'est incroyable !!!
+Il faut manger pour vivre
+On peut jouer pour s'amuser
