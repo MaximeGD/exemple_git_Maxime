@@ -12,7 +12,7 @@ Ceci est un sixième message dans le main
 
 Sauvegarde pour cours:
 
-git status (reflexe principal en cas de doute), git add <fichier> (git add .), 
+git status (reflexe principal en cas de pas radoute), git add <fichier> (git add .), 
 git commit -m <message explicatif> (git commit --amend -m <message>)
 git push (-u <alias URL> <branche>)
 git log, git show
