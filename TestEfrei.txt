@@ -8,3 +8,25 @@ Ceci est un cinquième message il n'existera d'abords que dans la branche featur
 oyuoyuoyu
 
 Ceci est un sixième message dans le main
+
+
+Sauvegarde pour cours:
+
+git status (reflexe principal en cas de doute), git add <fichier> (git add .), 
+git commit -m <message explicatif> (git commit --amend -m <message>)
+git push (-u <alias URL> <branche>)
+git log, git show
+git reset (--hard) (--soft) <commit>
+git tag [-a] version [-f] [-m] <message> <comit>
+git remote [-v] ==>verifier l'URL d dépôt distant associé au dépôt local
+git remote add <alias URL> <URL> (ex : git remote add origin https://github.com/Moi/mon-depot)
+git branch <branche>
+git checkout [-b] <branche> ==> l'option -b permet de créer une nouvelle branche et de se positionner dessus
+1) git fetch <alias>/branche>  2) git merge FETCH_HEAD
+git pull <alias> <branche>  (git pull)
+EN local, dans la branche de réception des modifications : git merge <branche>
+Pour supprimer un fichier de l'historique de suivi de git : git rm --cached <fichier>
+git ls-files ==> affiche la liste des fichiers suivis par git 
+
+Pour configurer son dépôt local git :1) git config user.name <username> 2) git config user.email <email>
+git clone <URL du dépôt> [nom du dossier où cloner]
