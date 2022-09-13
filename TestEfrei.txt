@@ -30,3 +30,7 @@ git ls-files ==> affiche la liste des fichiers suivis par git
 
 Pour configurer son dépôt local git :1) git config user.name <username> 2) git config user.email <email>
 git clone <URL du dépôt> [nom du dossier où cloner]
+
+l'eau ce n'est pas bon nul pour le vie 
+manger fait grossir 
+joeur c'est ennuyant
